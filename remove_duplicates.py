@@ -1,4 +1,4 @@
-Remove duplicate elements from an array
+# Remove duplicate elements from an array
 
 n = int(input("Enter number of elements: "))
 
