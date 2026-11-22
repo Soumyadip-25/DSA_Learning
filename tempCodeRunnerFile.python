@@ -1,0 +1,7 @@
+food = "Burger"
+
+foods = food.replace("r", "s")
+
+print(foods)
+
+# give me the naswer why this will print burger 
