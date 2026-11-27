@@ -1,5 +1,5 @@
-Find HCF using Recursion
-HCF (Highest Common Factor), also called GCD, is the largest number that divides two numbers exactly.
+// Find HCF using Recursion
+// HCF (Highest Common Factor), also called GCD, is the largest number that divides two numbers exactly.
 
 
 import java.util.Scanner;
